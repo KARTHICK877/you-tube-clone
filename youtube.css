@@ -1,0 +1,32 @@
+body {
+    padding: 40px;
+   margin: 50px;
+    
+}
+.all{
+
+    width: 700px;
+    height: 450px;
+    border: solid black;
+    
+}
+.one{
+    margin: 25px;
+}
+
+.h2 {
+  position: relative;
+  left: 20px;
+  top: 11px;
+    text-decoration: wavy; 
+  }
+  .one1{
+    margin: 25px;
+    position: relative;
+    bottom: 50px;
+}
+.one2{
+    margin: 25px;
+    position: relative;
+    bottom: 80px;
+}
